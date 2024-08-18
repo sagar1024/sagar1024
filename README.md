@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **sagar1024/sagar1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,12 +17,12 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=header"/>
 </p>
 
-<h1 align="center">Hey there 👋, I'm <a href="https://www.anuragpsarmah.me/">Anurag!</a></h1>
+<h1 align="center">Hey there 👋, I'm <a href="https://www.anuragpsarmah.me/">Sagar!</a></h1>
 
 <div align="center">
 
 ### 💫 About Me:
-**Location:** Bangalore, India<br>**From:** Assam (Khar Khua Axomiya)<br>**Education:** Master’s in Computer Applications | Bachelor’s in Chemistry<br>**Interests:** Web Development, DevOps, Scalable Architecture<br>**Currently Learning:** Web3, NextJS, GoLang<br>**Hobbies:** Chess, Mobile Legends, Music
+**Location:** Bangalore, India<br>**From:** Dehradun, Utarakhand<br>**Education:** Master’s in Computer Applications<br>**Interests:** Web Development, DevOps, Scalable Architecture<br>**Currently Learning:** Web3, NextJS, Machine Learning<br>**Hobbies:** Chess and Music
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuragpsarmah) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anuragpsarmah) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_anuragsarmah)
 
