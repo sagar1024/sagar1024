@@ -36,11 +36,7 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anuragpsarmah&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 <!--- ![](https://github-readme-streak-stats.herokuapp.com/?user=anuragpsarmah&theme=dark&hide_border=true)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragpsarmah&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=450)
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar1024&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=450)
 
 ---
 ### 🔝 Top Contributed Repo
