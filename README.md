@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 ### About Me:
 **Location:** Bangalore, India<br>**From:** Dehradun, Uttarakhand<br>**Education:** Master’s in Computer Applications<br>**Interests:** Web Dev, ML<br>**Currently Learning:** Web3, Scalable Architecture<br>**Hobbies:** Chess and Music
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-gurung-90b833209/) [![Leetcode](![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06))](https://leetcode.com/u/sagargg1024/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-gurung-90b833209/)
+[![Codeforces](https://run.kaist.ac.kr/badges/codeforces/jo_on.svg))](https://codeforces.com/profile/sagargg1024)
+[![Leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06))](https://leetcode.com/u/sagargg1024/)
 
 ---
 
