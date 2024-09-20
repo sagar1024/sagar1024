@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=header"/>
 </p>
 
-<h1 align="center">Hey there, I'm <a href="https://sagar-gurung-portfolio.vercel.app/">Sagar Gurung!</a></h1>
+<h1 align="center">Hello world, I'm <a href="https://sagar-gurung-portfolio.vercel.app/">Sagar Gurung!</a></h1>
 
 <div align="center">
 
