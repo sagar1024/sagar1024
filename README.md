@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 ### About Me:
-**Location:** Bangalore, India<br>**From:** Dehradun, Uttarakhand<br>**Education:** Masters in CS<br>**Specialization:** Web Dev, ML/DL<br>**Interests:** Game Dev, Scalable Architecture<br>**Hobbies:** Chess, Yoga and Music
+**Location:** Bangalore, India<br>**From:** Dehradun, Uttarakhand<br>**Education:** Masters in CS<br>**Specialization:** Web Dev, Machine Learning<br>**Interests:** Game Dev, Scalable Architecture<br>**Hobbies:** Chess, Yoga and Music
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-gurung-90b833209/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/sagargg1024)
