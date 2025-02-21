@@ -22,9 +22,11 @@ Here are some ideas to get you started:
 <div align="center">
 
 ### About Me:
-**Location:** Bangalore, Karnataka, India<br>**From:** Dehradun, India<br>**Education:** BSc, MCA<br>**Specialization:** Web Dev, AI/ML<br>**Interests:** Game Dev<br>**Hobbies:** Chess, Yoga & Music
+**Location:** Bangalore, Karnataka, India<br>**From:** Dehradun, India<br>**Education:** BSc General, MCA<br>**Specialization:** Web Dev, AI/ML<br>**Interests:** Game Dev<br>**Hobbies:** Chess, Yoga & Music
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-gurung-90b833209/) [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/sagargg1024) [![Leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06))](https://leetcode.com/u/sagargg1024/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-gurung-90b833209/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/sagargg1024)
+[![Leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/sagargg1024/)
 
 ---
 
