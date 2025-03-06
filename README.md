@@ -45,8 +45,6 @@ Here are some ideas to get you started:
 ![](https://github-contributor-stats.vercel.app/api?username=sagar1024&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </div>
 
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
