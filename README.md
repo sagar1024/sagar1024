@@ -17,12 +17,12 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=header"/>
 </p>
 
-<h1 align="center">Hello world🌎, I'm <a href="https://sagar-gurung-portfolio.vercel.app/">Sagar Gurung!</a></h1>
+<h1 align="center">Hello world🌎, I'm <a href="https://sagar-gurung-portfolio.vercel.app/">Sagar Gurung</a>!</h1>
 
 <div align="center">
 
 ### About Me:
-**Education:** BSc, MCA<br>**Location:** Bangalore, India<br>**Specialization:** Web Dev, AI/ML<br>**Interests:** Game Dev<br>**Hobbies:** Chess, Yoga & Music
+**Education:** BSc(Gen), MCA<br>**Location:** Bangalore, India<br>**Specialization:** Web Dev, AI/ML<br>**Interests:** Game Dev<br>**Hobbies:** Chess, Yoga & Music
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-gurung-90b833209/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/sagargg1024)
@@ -45,7 +45,8 @@ Here are some ideas to get you started:
 ![](https://github-contributor-stats.vercel.app/api?username=sagar1024&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </div>
 
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
-
