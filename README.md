@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=sagar1024&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </div>
 
