@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 </p>
 
 <h1 align="center">Hello world🌎, I'm <a href="https://sagar-gurung-portfolio.vercel.app/">Sagar Gurung</a>!</h1>
-
 <div align="center">
 
 # About Me:
