@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 </p>
 
 <h1 align="center">Hello world🌎, I'm <a href="https://sagar-gurung-portfolio.vercel.app/">Sagar Gurung</a>!</h1>
+
 <div align="center">
 
 # About Me:
@@ -47,8 +48,4 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
-
-
-
-
 
