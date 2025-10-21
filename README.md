@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 # About Me:
-**Education:** BSc(Gen), MCA<br>**Location:** Bangalore, Karnataka, INDIA<br>**Specialization:** Web Dev, AI/ML<br>**Interests:** Game Dev<br>**Hobbies:** Chess, Yoga, Music
+**Education:** BSc(Gen), MCA<br>**Location:** Bangalore, Karnataka, INDIA<br>**Specialization:** Web Dev, AI/ML<br>**Interests:** Game Dev<br>**Hobbies:** Chess, Music & Yoga
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-gurung-90b833209/)
 [![Leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/sagargg1024/)
