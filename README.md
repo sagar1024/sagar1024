@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 # About Me:
-**Position:** Software Engineer @Capgemini<br>**Education:** BSc, MCA<br>**Location:** Bangalore, Karnataka, INDIA<br>**Specialization:** Backend Dev, ML<br>**Interests:** Game Dev<br>**Hobbies:** Chess, Music & Yoga
+**Position:** SWE @Capgemini<br>**Education:** BSc, MCA<br>**Location:** Bangalore, Karnataka, INDIA<br>**Specialization:** Backend Dev, ML<br>**Interests:** Game Dev<br>**Hobbies:** Chess, Music & Yoga
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-gurung-90b833209/)
 [![Leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/sagargg1024/)
@@ -47,4 +47,5 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
+
 
